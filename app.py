@@ -6,6 +6,7 @@ import streamlit as st
 from groq_rag import generate_answer
 
 # Set layout and title only once
+port = int(os.environ.get("PORT", 8501))
 st.set_page_config(page_title="Kalyan FAQ Chatbot", layout="centered")
 st.title("💬 Kalyan Jewellers FAQ Chatbot")
 
