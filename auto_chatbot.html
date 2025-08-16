@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kalyan Jewellers - Auto-Start Chatbot</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+        }
+        
+        .header {
+            background: linear-gradient(90deg, #FFD700, #FFA500, #FF8C00);
+            padding: 2rem;
+            text-align: center;
+            box-shadow: 0 4px 20px rgba(255, 215, 0, 0.3);
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        
+        .control-panel {
+            background: white;
+            border-radius: 15px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            border: 2px solid #FFD700;
+            text-align: center;
+        }
+        
+        .btn {
+            background: linear-gradient(45deg, #FFD700, #FFA500);
+            color: #2C1810;
+            border: none;
+            border-radius: 25px;
+            padding: 1rem 2rem;
+            font-size: 1.1rem;
+            font-weight: bold;
+            cursor: pointer;
+            margin: 0.5rem;
+            transition: all 0.3s ease;
+        }
+        
+        .btn:hover {
+            background: linear-gradient(45deg, #FFA500, #FF8C00);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(255, 165, 0, 0.4);
+        }
+        
+        .btn:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .chatbot-container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            border: 3px solid #FFD700;
+            overflow: hidden;
+            height: 80vh;
+            min-height: 600px;
+        }
+        
+        .chatbot-iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+        
+        .status-message {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+            font-size: 1.2rem;
+            color: #5D4E37;
+            background: linear-gradient(45deg, #fff8dc, #f0f8ff);
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>💎 Kalyan Jewellers FAQ Assistant 💎</h1>
+        <p>✨ Your trusted guide to all jewelry queries ✨</p>
+    </div>
+    
+    <div class="container">
+        <div class="control-panel">
+            <h3>🎛️ Chatbot Control Panel</h3>
+            <p>Manage your jewelry FAQ assistant</p>
+            <br>
+            <button class="btn" onclick="startChatbot()" id="startBtn">
+                🚀 Start Chatbot
+            </button>
+            <button class="btn" onclick="stopChatbot()" id="stopBtn" disabled>
+                🛑 Stop Chatbot
+            </button>
+            <button class="btn" onclick="refreshChatbot()">
+                🔄 Refresh
+            </button>
+            <br><br>
+            <div id="statusText">Ready to start your jewelry assistant</div>
+        </div>
+        
+        <div class="chatbot-container">
+            <div class="status-message" id="chatbotContent">
+                <div>
+                    <h3>🎯 Welcome to Kalyan Jewellers FAQ Assistant</h3>
+                    <p>Click "Start Chatbot" above to begin</p>
+                    <br>
+                    <p><small>The chatbot will automatically start the Streamlit server</small></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        let chatbotProcess = null;
+        
+        function startChatbot() {
+            document.getElementById('startBtn').disabled = true;
+            document.getElementById('statusText').innerHTML = '🚀 Starting chatbot server...';
+            
+            // Show loading message
+            document.getElementById('chatbotContent').innerHTML = `
+                <div>
+                    <h3>⏳ Starting Chatbot Server...</h3>
+                    <p>Please wait while we initialize your jewelry assistant...</p>
+                    <div style="margin: 2rem 0;">
+                        <div style="display: inline-block; width: 20px; height: 20px; border: 3px solid #FFD700; border-radius: 50%; border-top-color: transparent; animation: spin 1s linear infinite;"></div>
+                    </div>
+                </div>
+                <style>
+                    @keyframes spin {
+                        to { transform: rotate(360deg); }
+                    }
+                </style>
+            `;
+            
+            // Try to start the chatbot (this would need a backend service)
+            // For now, we'll simulate the process and load the iframe
+            setTimeout(() => {
+                loadChatbotIframe();
+            }, 3000);
+        }
+        
+        function loadChatbotIframe() {
+            document.getElementById('chatbotContent').innerHTML = `
+                <iframe 
+                    src="http://localhost:8501" 
+                    style="width: 100%; height: 100%; border: none;"
+                    onload="onChatbotReady()"
+                    onerror="onChatbotError()">
+                </iframe>
+            `;
+        }
+        
+        function onChatbotReady() {
+            document.getElementById('stopBtn').disabled = false;
+            document.getElementById('statusText').innerHTML = '✅ Chatbot is running successfully!';
+        }
+        
+        function onChatbotError() {
+            document.getElementById('startBtn').disabled = false;
+            document.getElementById('statusText').innerHTML = '❌ Failed to connect. Please start the server manually.';
+            document.getElementById('chatbotContent').innerHTML = `
+                <div>
+                    <h3>⚠️ Connection Failed</h3>
+                    <p>Please start the chatbot server manually:</p>
+                    <ol style="text-align: left; margin: 1rem 0;">
+                        <li>Double-click <code>start_chatbot.bat</code></li>
+                        <li>Or run <code>launch_chatbot.py</code></li>
+                        <li>Wait for the server to start</li>
+                        <li>Click "Refresh" above</li>
+                    </ol>
+                </div>
+            `;
+        }
+        
+        function stopChatbot() {
+            document.getElementById('stopBtn').disabled = true;
+            document.getElementById('startBtn').disabled = false;
+            document.getElementById('statusText').innerHTML = '🛑 Chatbot stopped';
+            document.getElementById('chatbotContent').innerHTML = `
+                <div>
+                    <h3>🛑 Chatbot Stopped</h3>
+                    <p>Click "Start Chatbot" to restart your jewelry assistant</p>
+                </div>
+            `;
+        }
+        
+        function refreshChatbot() {
+            document.getElementById('statusText').innerHTML = '🔄 Refreshing...';
+            loadChatbotIframe();
+        }
+    </script>
+</body>
+</html>

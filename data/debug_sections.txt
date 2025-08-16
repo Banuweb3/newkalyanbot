@@ -23,7 +23,7 @@ Making Charges / Wastage Query (VADD)
 ==================================================
 (VADD) : 
  Making Charges / Wastage Query (VADD) Enquiries related to the value -added charges, wastage 
-percentage, and making costs applied to jewelle ry pieces. Queries: 
+percentage, and making costs applied to jewellery pieces. Queries: 
 1. What is the offer on making charges? 
 Share only the current offer or promotional rate as officially communicated by Kalyan 
 Jewellers. If no offer is active, clearly mention that standard making charges apply. 
@@ -37,7 +37,7 @@ design chosen
 
 Current offers
 ==================================================
-Current offers Customer enquiries about ongoing promot ions, discounts on making charges, festival 
+Current offers Customer enquiries about ongoing promotions, discounts on making charges, festival 
 offers, or exclusive schemes currently available at Kalyan Jewellers Queries: 
 1. What is the daily offer for today, at KJ? 
 Share only the current day’s offers as officially communicated by Kalyan Jewellers. 
@@ -46,11 +46,11 @@ and no general statements; only what's available that day, based on the KJ daily
 
 Certification & Hallmarking Details
 ==================================================
-Certification & Hallmarking Details Customers seeking information about authenticity certificates 
+Certification & Hal lmarking Details Customers seeking information about authenticity certificates 
 and hallmarking standards for gold or diamonds. Queries: 
 1. Customer asked from which country KJ gold is made. Is it imported or made in 
 India ? 
-Kalyan Jewelle rs primarily uses gold that is refined and crafted in India. All our 
+Kalyan Jewellers primarily uses go ld that is refined and crafted in India. All our 
 jewellery meets quality and hallmarking standards to ensure authenticity and purity
 
 Product Availability
@@ -70,24 +70,24 @@ bar?
 DYE charges are applicable (state – wise DYE charges will vary) 
  
 4. Does “my kalyan mini store” has gold coin? 
-Gold coins are not usually available at My Kalyan Mini Stores, as these are 
+Gold coi ns are not usually available at My Kalyan Mini Stores, as these are 
 focused on scheme -related services. For gold coin purchases, please visit or 
 contact the nearest main Kalyan Jewellers showroom 
  
-5. Customer wanted to purchase 8gm gold co in. How many coins can he purchase 
+5. Customer wanted to purchase 8gm gold coin. How many coins c an he purchase 
 for that 8gm? 
 Kalyan Jewellers offers 22K gold coins in 1gm, 2gm, 4gm, and 8gm options — and 
 24K gold coins in 1gm, 5gm, and 10gm. You can choose any combination to 
 match your 8gm requirement based on availability at the store 
  
-6. Customer is asking if Naan KDM design is available at the store ? 
+6. Customer is a sking if Naan KDM design is available at the store ? 
 Let me check with the respective store regarding the availability of that design. I’ll 
 arrange a callback for you with the update shortly. 
-7. Customer is enquiring about Gantan Gold avail ability ? 
-Let me check with the respective store regarding the availability of that design. I’ll 
+7. Customer is enquiring about Gantan Gold availability ? 
+Let me chec k with the respective store regarding the availability of that design. I’ll 
 arrange a callback for you with the update shortly. 
 8. Is silver rakhi available in kalyan jewellers? 
-Let me check with the respective store regarding the availabi lity of silver rakhi. I’ll 
+Let me check with the respective store regarding the availability of silver rakhi . I’ll 
 arrange a callback for you with the update shortly. 
 9. Customer is asking if he can purchase silver coin from KJ ? 
 Yes, it is possible. Available grams are 1gm, 5gm, 10gm 
@@ -96,41 +96,50 @@ price ?
 Check the Value Metal Calculator (VMC) and inform the customer 
 11. Is Silver kaapu available for baby? 
 Let me check with the respective store regarding the availability of silver rakhi. I’ll 
-arrange a callback for you with the update sho rtly. 
-12. Customer purchased diamond jewellery from KJ last week. Store didn’t give 
+arrange a callback for you with the update shortly. 
+12. Customer purchas ed diamond jewellery from KJ last week. Store didn’t give 
 him certificate. He is 70 years. Now he is asking if he can go and collect it at 
 store ? 
 Thank you for bringing this to our notice. I’ll arrange a callback from the 
-respective s tore to assist you further regarding the diamond certificate. They will 
+respective store to assist you fur ther regarding the diamond certificate. They will 
 guide you on how to collect it at your convenience. 
  
 13. Are platinum rings available in KJ? 
 Yes, platinum rings are available 
  
 14. Do you have pearl and emerald in stock? 
-Thank you for your i nterest. Availability of pearl and emerald jewellery may vary 
+Thank you for your interest. Availability of pearl and emerald jewellery may vary 
 by store. I’ll arrange a callback from the nearest showroom to provide you with 
 the exact stock details and assist further 
  
 15. Are Birth Stone available in store? 
-Birth stones are available at sele ct Kalyan Jewellers showrooms. I will arrange a 
+Birth stones are available at select Kalyan Jewellers sh owrooms. I will arrange a 
 callback from the respective store to confirm availability and guide you further 
 based on your requirement 
  
 16. Customer is asking are the same designs available in shop which is there in 
 candere ? 
-Thank you for y our query. The designs available on Candere are exclusive to the 
+Thank you for your query. The designs available on Candere are exclusive to the 
 Candere platform and may not be available at Kalyan Jewellers showrooms. The 
 store collections are different and curated separately 
  
 17. Is lab – grown diamonds available at KJ? 
-No, lab grown diamonds are not available at KJ
+No, lab grown diamonds are not available at KJ 
+18.Is 3 to 4gms gold chain available? 
+Let me check with the respective store regarding the availability. I’ll arrange a 
+callback for you with the update shortly. 
+ 
+19 Is Silver Kalasam available at KJ? 
+Thank you for your interest. Availability of silver kalasam may vary by store. I’ll 
+arrange a callback from the nearest showroom to provide you with the exact 
+stock details and assist further 
+ 
+ 
+ 
+Product Customization Requests :
 
 Product Customization Requests
 ==================================================
-: 
- 
-Product Customization Requests 
 Enquiries about modifying jewellery designs, size adjustments, engravings, or bespoke 
 orders. 
 Queries: 
@@ -144,11 +153,11 @@ there be any customization charges?
 Customization is free of charge. Please visit the nearest Kalyan Jewellers showroom, 
 and our team will help you with the design and options 
  
-3. Customer has paid advance amount for customiz ed jewellery and said balance 
-will be paid via online. Now he wanted to give some gold coin for the balance 
+3. Customer has paid advance amount for customized jewellery and said balance 
+will be paid via online. Now he wanted t o give some gold coin for the balance 
 amount. Is it possible? Asking for Store number ? 
 Yes, you can give gold coins as part of the balance payment. The store will verify the 
-purity and a djust the value accordingly. Share the contact number of the store from 
+purity and adjust the value accordingly. Share the contact number of the store fro m 
 the NAS server. 
  
 4. Customer bought gold ring at KJ 2 years back. He missed the bill. He wanted to 
@@ -156,13 +165,31 @@ encrave a design in that ring. Asking if that is possible or not ?
 For engraving services, the original bill is mandatory. Since the purchase was 2 years ago and 
 the bill is unavailable, I suggest visiting the store directly 
 5. Customer enquired whether his design is ready or not ? 
-I will arrange a callback from the respective store to upd ate you on the progress of 
+I will arrange a callback from the respective store to update you on the progress of 
 your customised jewellery. You’ll receive the call shortly 
  
 6. Is customization available for jewellery? 
 Yes, customization is available for jewellery at Kalyan Jewellers. You can walk into any of our 
-stores, discuss your preference s with our team, and I will help you create a design that suits 
+stores, discuss your preferences with our team, and I will help you create a design that suits 
 your style. 
+ 
+  7. Customer asked if diamond stone can be attached to silver ring? 
+Yes, customization is available for jewellery at Kalyan Jewellers. You can walk into 
+any of our stores, discuss your preferences with our team, and I will help you create 
+a design that suits your style. 
+ 
+   8. Customer wanted to customize a pendant using mother’s milk? 
+We truly appreciate your interest in creating a personalized piece of jewellery. 
+However, we are sorry, we do not offer customization services involving org anic 
+materials such as mother&#39;s milk. 
+ 
+  9.Customer wanted to engrave fingerprint in ring. Asking if it is possible ? 
+Thank you for your interest. Engraving a fingerprint on a ring is a customized request. 
+We will check with the respective store rega rding its feasibility and arrange a call 
+back shortly with the necessary details. 
+ 
+ 
+ 
  
 Availability Status at Specific 
 Stores :
@@ -182,16 +209,20 @@ arrange a callback for you with the update shortly.
  
 3. Customer called and enquired if choker necklace is available in 18k gold at store ? 
  
-Let me check with the respectiv e branch regarding the availability of that design. I’ll 
+Let me check with the respective branch regarding the availability of that design. I’ll 
 arrange a callback for you with the update shortly. 
  
 4. Customer is asking if gold spoon and bowl is available at particular store ? 
-Let me check with the respective store regarding the availability of t hat design. I’ll 
+Let me check with the respective stor e regarding the availability of that design. I’ll 
 arrange a callback for you with the update shortly. 
  
  
 5. Customer is asking if Gold Rakhi is available at store ? 
 Let me check with the respective store regarding the availability of that design. I’ll 
+arrange a callback for you with the update shortly. 
+ 
+   6    .Customer is asking if silver polish is available at Malleshwaram, Bangalore Store ? 
+Let me check with the respective branch regarding the availability of that design. I’ll 
 arrange a callback for you with the update shortly. 
  
 Online Purchase :
@@ -202,34 +233,45 @@ Customer enquiries related to buying jewellery through Kalyan Jewellers' officia
 website or app, including product availability, payment, and delivery options. 
  
 Queries: 
-1. Customer is asking if he can buy gold coin in swiggy instamart. Will it be 
+1. Customer is ask ing if he can buy gold coin in swiggy instamart. Will it be 
 hallmarked? Is it 22 / 24 / 18 carat? Will he receive bill from KJ or Swiggy 
 instamart? 
 Yes, Kalyan Jewellers gold coins are available on Swiggy Instamart in select areas. They 
-are 999 purity, 24K, and the invoice will be from Swiggy. The packaging includes Kalyan 
+are 999 purity, 24K , and the invoice will be from Swiggy. The packaging includes Kalyan 
 Jewellers’ authenticity details 
  
 2. Customer called from Kancheepuram district and said he purchased 4gm gold 
-coin from myntra. Seller from KJ Thirussur branch. No BIS Hallmar k & HUID. Is 
+coin from myntra. Seller from KJ Thirussur branch. No BIS Hallmark & HUID. Is 
 this coin original? 
 The 4gm gold coin purchased from Myntra under the Kalyan Jewellers brand is 24K with 
 999 purity. However, if you have any concerns, I recommend visiting your nearest 
 Kalyan Jewellers store for verification 
  
 3. What is Digi – Gold? 
-Digital Gold is the platform where you can buy and sell gold online only. 
+Digital Go ld is the platform where you can buy and sell gold online only. 
 Website Address : 
 https://kalyan.augmont.com/buy 
+further assistance, contact – 9090906867 
  
  
+        4. Customer asked if he can convert Digi – Gold to Cash? 
+ 
+I’m sorry, but converting Digi -Gold to cash is not possible. It can only be 
+redeemed for jewellery purchases as per the scheme’s terms and conditions. I 
+would recommend visiting your nearest Kalyan Jewellers store, where our team 
+can guide you on the available redemption options. 
  
  
- 
- 
- 
- 
- 
-Scheme : 
+     5. Customer purchased a 5 -gram gold chain for ₹85,000 through Myntra. The invoice shows      
+       the price per gram as ₹17,000, which seems unusually high. He would like to confirm   
+        whether the jewellery is genuine or fake ? 
+Thank you for bringing this to our attention. If you are uncertain about the purity 
+of the jewellery, we kindly recommend visiting the nearest Kalyan Jewellers 
+store. Our team will assist you wit h a thorough purity check and address any 
+concerns you may have regarding the product
+
+Scheme & Scheme Enquiry
+==================================================
 Scheme: 
 Dhanalakshmi Scheme: 
  Scheme Type: Monthly gold saving scheme. 
@@ -238,13 +280,13 @@ Dhanalakshmi Scheme:
  On completion of 11 months, customer can purchase gold jewellery with VADD 
 benefits. 
  Value Addition Discount (VADD) Benefits : 
- If VA (making charges) is up to 19. 5% – 0% VA (completely waived). 
- If VA is above 19.5% – customer pays only the difference (e.g., if VA is 23%, 
+ If VA (making charges) is up to 19.5% – 0% VA (completely waived). 
+ If VA is above 19.5% – customer pays only the diffe rence (e.g., if VA is 23%, 
 customer pays only 3.5%). 
  
 Muhurat scheme: 
  Minimum deposit : Rs.1,00,000 (one -time payment). 
- Gold weight equivalent to Rs. 1 lakh is fixed on the d ate of payment . 
+ Gold weight equivalent to Rs. 1 lakh is fixed on the date of payment . 
  Scheme duration: 11 months . 
  After completion, customer can purchase jewellery for the pre -fixed weight . 
  Value Addition Discount (VADD) Benefits : 
@@ -259,70 +301,93 @@ showroom.
  Option 1: 
 o Customer receives 10 grams + 1.100 grams (i.e., extra 1 gram 100 
 milligrams). 
-o Value Addition (VA) will be charged on the total gold weight. 
+o Value Addition (VA) will be charged on the t otal gold weight. 
  Option 2: 
 o Customer receives only the original 10 grams . 
-o If VA is up to 22.5% – 0% VA (fully waived).
-
-Scheme queries
-==================================================
+o If VA is up to 22.5% – 0% VA (fully waived). 
+ 
+Dhanteras Pre -Booking Offer – 2025 : 
+ 
+ Advance Pre -Booking Dates: 1st August to 30th September 2025 
+ Redemption Dates: 1st October to 15th October 2025 
+ Advance Amount: 25% of total value to be paid 
+ Rate Protection: As per the rate on booking date 
+ 
+Benefits (4 times the advance paid) 
+For purchases below 30 grams: 
+ Gold – Flat 25% off on VA for purchase of Gold Jewellery 
+ Diamond – Flat 25% off on VA &amp; 15% off on stone for purchase of Diamond 
+jewellery 
+ Precious &amp; Uncut (Diamond, Ruby, Sapphire, Emerald, Alexandrite etc.,) - Flat 
+25% 
+ off on VA &amp; 10% off on stone for purchase of Precious &amp;Uncut jewellery 
+ Platinum &amp; Polki – Flat 1 0% off on invoice value for purchase of Platinum &amp; 
+Polk i 
+Jewellery 
+ Silver – Flat 25% on VA for Silver jewellery &amp; Flat 15% off on MRP products 
+ Premium - Flat 25% off on VA &amp; 10% off on stone for purchase of Premium 
+jewellery 
+ 
+For purchases ₹3 l akhs &amp; above: 
+ Gold – Flat 30% off on VA for purch ase of Gold Jewellery 
+ Diamond – Flat 30% off on VA &amp; 20% off on stone for purchase of Diamond 
+jewellery 
+ Precious &amp; Uncut (Diamond, Ruby, Sapphire, Emerald, Alexandrite etc.,) - Flat 
+30% 
+ off on VA &amp; 15% off on stone for purchase of Precious &amp;Uncut jewellery 
+ Premium - Flat 35% off on VA &amp; 15% off on stone for purchase of Premium 
+jewellery 
+ 
+Not Applicable For: 
+ Coins, bars, Saving schemes, Package deals, Special/custom -made items, Gift 
+vouchers 
+ 
+Location: 
+ 
+ Redemption must be done at the same store where booking was made 
+ 
+ 
+Scheme Enquiry 
+ 
 9a. Scheme Enquiry - General questions regarding available gold saving or jewellery purchase 
 schemes. 
-1. Is KJ not good at Tamil nadu? Is it good to put scheme at KJ? Neighbors are saying 
-to opt for some other jewelers 
-Kalyan Jewellers has a strong presence across Tamil Nadu and is trus ted by lakhs of 
+1. Is KJ not good at Tamil nadu? Is it good to put sc heme at KJ? Neighbors are saying 
+to opt for some other jewelers ? 
+Kalyan Jewellers has a strong presence across Tamil Nadu and is trusted by lakhs of 
 customers. Our gold schemes are completely transparent and secure. You’re always 
-welcome to visit any of our showrooms to understand how the scheme works before 
+welcome to visit any of o ur showrooms to understand how the scheme works before 
 enrolling 
  
-2. Customer called and said a person has visited his house stating he i s a marketing 
+2. Customer called and said a person has visited his house stating he is a marketing 
 agent from KJ and he wanted to explain about the scheme. Customer wanted to 
-check if it’s true or not 
-Thank you for bringing this to our attention. For security and verification, I suggest 
-visiting your nearest Kalyan Jewellers store or calli ng the official store number to 
+check if it’s true or not ? 
+Than k you for bringing this to our attention. For security and verification, I suggest 
+visiting your nearest Kalyan Jewellers store or calling the official store number to 
 confirm whether a marketing representative was assigned to your area. I also advise 
 not sharing any personal information unless identity is verified through official 
 sources 
  
-3. Willing to open new scheme at Kalyan. Need detail s 
+3. Willing to open new scheme at Kalyan. Need details ? 
 Thank you for your interest in joining our monthly savings scheme at Kalyan 
 Jewellers. Explain about the monthly scheme . For enrolment, I request you to visit 
 the nearest Kalyan store with valid ID proof (Aadhar card). Our staff will guide you 
-through th e process and help you get started 
+through the process and help you get started 
  
-4. Customer is asking if any scheme is available for silver 
-Thank you for your interest. At present, I do not have any savings or installment 
-schemes available specifically for silver purchases.
-
-Scheme Enquiry
-==================================================
-9a. Scheme Enquiry - General questions regarding available gold saving or jewellery purchase 
-schemes. 
-1. Is KJ not good at Tamil nadu? Is it good to put scheme at KJ? Neighbors are saying 
-to opt for some other jewelers 
-Kalyan Jewellers has a strong presence across Tamil Nadu and is trus ted by lakhs of 
-customers. Our gold schemes are completely transparent and secure. You’re always 
-welcome to visit any of our showrooms to understand how the scheme works before 
-enrolling 
+4. Customer is asking if any scheme is available for silver ? 
+Thank you for your i nterest. At present, I do not have any savings or installment 
+schemes available specifically for silver purchases. 
  
-2. Customer called and said a person has visited his house stating he i s a marketing 
-agent from KJ and he wanted to explain about the scheme. Customer wanted to 
-check if it’s true or not 
-Thank you for bringing this to our attention. For security and verification, I suggest 
-visiting your nearest Kalyan Jewellers store or calli ng the official store number to 
-confirm whether a marketing representative was assigned to your area. I also advise 
-not sharing any personal information unless identity is verified through official 
-sources 
+   5.Customer called and asked if he can join the scheme online ? 
+Thank you for your interest in joining our gold saving scheme. Currently, online 
+enrolment is not available. We kindly request you to visit the nearest Kalyan 
+Jewellers store with your Aadhaar card, PAN card, and registered mobile number. 
+Our team at the store will assist you with the enrolment process . 
  
-3. Willing to open new scheme at Kalyan. Need detail s 
-Thank you for your interest in joining our monthly savings scheme at Kalyan 
-Jewellers. Explain about the monthly scheme . For enrolment, I request you to visit 
-the nearest Kalyan store with valid ID proof (Aadhar card). Our staff will guide you 
-through th e process and help you get started 
- 
-4. Customer is asking if any scheme is available for silver 
-Thank you for your interest. At present, I do not have any savings or installment 
-schemes available specifically for silver purchases.
+   6. Custo mer called and asked to send scheme details to her e -mail ID ? 
+Thank you for reaching out. We understand your request; however, at the moment, 
+we are unable to share scheme details via email. We kindly request you to visit your 
+nearest Kalyan Jewellers sto re for complete information and assistance regarding 
+our schemes.
 
 Scheme Enrolment Details
 ==================================================
@@ -333,7 +398,7 @@ Queries:
 do? 
 Thank you for bringing this to our attention. I will first check the Kalyan ledger to confirm if the 
 payment has been successfully updated. 
-(If it reflects correctly on our end, say) 
+(If it reflects correctly on o ur end, say) 
 I sincerely apologize — the issue could be due to a technical delay in SMS delivery. Payment is 
 updated in your ledger 
 2. Payment for scheme is made and amount is debited but not reflecting in ledger 
@@ -343,24 +408,30 @@ in transaction updates. If it still doesn’t reflect after that time, I suggest
 check the transaction status. 
  
 3. Customer paid to scheme for 4 months but missed 1 month, what should customer do? 
-Thank you for re aching out. May I know if you're getting an option online to pay for two 
-months together? If yes, you can proceed with the payment. If not, I kindly suggest visiting 
-the nearest Kalyan Jewellers store. The team there will help you with the payment and guid e 
+Thank you for reaching out. May I know if you're getting an option online to pay for two 
+months together? If yes, you can proceed with the p ayment. If not, I kindly suggest visiting 
+the nearest Kalyan Jewellers store. The team there will help you with the payment and guide 
 you further with the scheme continuation 
  
 4. Customer is asking if Registered Phone number can be updated for scheme 
 Yes, the registered phone number for the scheme can be updated. I kindly request the customer to 
 visit the nearest Kalyan Jewellers store with a valid ID proof to process the change. The store team 
 will assist with updating the contact details in the scheme 
-5. Customer is asking how to do payment online. Website / payment gateway details 
+5. Custom er is asking how to do payment online. Website / payment gateway details 
 You can make your online payment through Kalyan Jewellers' official payment gateway 
 payments.kalyanjewellers.net. Please ensure you have your customer details or reference 
-number handy while proceeding 
+number hand y while proceeding 
  
 6. Customer asked what is the membership fee in scheme 
-Thank you for your question. In our schem e, 25% of your scheme amount is considered as 
+Thank you for your question. In our scheme, 25% of your scheme amount is considered as 
 the membership fee. However, please note that this amount is not a separate charge —it will 
-be adjusted at the time of scheme maturity, so you will not lose that amount
+be adj usted at the time of scheme maturity, so you will not lose that amount 
+ 
+ 
+7.Customer called and asked if he will receive gift, if he joins the scheme. In previous scheme, he 
+has received the gift ? 
+Gift eligibility depends on the store at the time of joinin g the scheme. Also, the minimum 
+monthly scheme amount should be above Rs.2500 to qualify for any gift, if applicable
 
 Scheme Maturity
 ==================================================
@@ -370,26 +441,26 @@ Queries:
 1. Customer called and asked if he can go and claim the gold. He enrolled in 
 dhanarekha scheme. But maturity date was 30.08.2024. 
 Since the maturity date of your Dhanarekha scheme was on 30th August 2024, the 
-scheme benefits will not be applicable now. I request you to kindly visit the store for 
+scheme benefits will not be applicable no w. I request you to kindly visit the store for 
 further guidance 
  
 2. Scheme is matured; Can I buy Gold Coin / Bar? 
-Thank you for your query. Once the scheme is matured, re demption is allowed only 
-against jewellery purchases. Gold coins or bars cannot be purchased using the 
+Thank you for your query. Once the scheme is matured, redemption is allowed only 
+against jewellery purchases. Gold coins or bars cannot be purcha sed using the 
 scheme amount. You can visit the nearest Kalyan Jewellers showroom to explore our 
 wide range of jewellery collections for redemption 
  
 3. Scheme is matured; Can a customer buy jewel from other states? 
-Thank you for checking. Once the scheme is matured, the purchase of jewellery can 
+Thank you for checking. Once the scheme is ma tured, the purchase of jewellery can 
 be done only within the same state where the scheme was enrolled. Kindly visit any 
-Kalyan Jewellers showroom in that state to comp lete your purchase. 
+Kalyan Jewellers showroom in that state to complete your purchase. 
  
 4. Scheme is matured; Can a customer buy jewel from other districts? 
 Yes, the customer can purchase jewellery from any Kalyan Jewellers showroom 
 within the same state, even if it's in a different district 
  
 5. Customer is asking the maturity date. When can he purchase? 
-check the scheme ledger for maturity details and inform the customer. Customer can 
+check the scheme ledger for maturity details and inform the c ustomer. Customer can 
 purchase before 15 days of scheme maturity date. 
  
 6. Customer is asking if he can avail scheme benefits along with today’s benefits 
@@ -399,42 +470,70 @@ offers
 7. Customer enrolled in 3 schemes. 2 schemes at same time and 1 at different time. 
 Can he claim all 3 schemes benefit at the same time? 
 Thank you for your query. Since the schemes were enrolled at different times, the 
-maturity dates will differ. Only those schemes that mature on the same date can be 
+maturity dates will differ. Only those schemes tha t mature on the same date can be 
 claimed together. For the one enrolled separately, benefits can be claimed only upon 
 its individual maturity 
  
-8. What are the documents to be c arried while purchasing jewels once scheme is 
+8. What are the documents to be carried while purchasing jewels once scheme is 
 matured 
 At the time of jewel purchase after scheme maturity, please carry the bond papers, a 
 valid ID proof (such as Aadhaar or PAN), and ensure the registered mobile number is 
 available for verification. 
  
-9. Cust omer called and asked if he can redeem the scheme amount in cash instead of 
-purchasing gold jewellery 
+9. Customer called and asked if he can redeem the scheme amount in cash instead of 
+purchas ing gold jewellery 
 As per Kalyan Jewellers' policy, the scheme amount cannot be redeemed in cash. It 
-can only be used to purchase gold jewellery
+can only be used to purchase gold jewellery 
+ 
+10. Customer opened scheme in Mumbai and wanted to redeem at Chennai. Is it 
+possible? 
+Thank you for reaching out. As per our current policy, redemption of the scheme is 
+permitted only within the state where it was originally enrolled. Since the scheme 
+was opened in Mumbai (Maharashtra), redemption at Chennai (Tamil Nadu) is not 
+allowed. We recommend visiting any Kalyan Jewellers store within Maharashtra to 
+redeem your scheme. 
+ 
+11. Customer enrolled in 2 schemes and both are matured. He wants to purchase 
+single jewel with both schemes’ maturity value ? 
+Thank you for reaching out. If both the matured schemes are of the same type, you 
+can combine them to purchase a single piece of jewellery. However, if the schemes 
+are different, they cannot be clubbed together for one purchase. We recommend 
+visiting the nearest Kalyan Jewellers store for further assistance and verifi cation 
+ 
+12. Customer hasn’t paid the scheme amount for past 6 months. He wanted to pay 
+now for 6 months and continue the scheme. Asking if it is possible ? 
+I’m sorry, but if the scheme payments have been pending for 6 months, it cannot be 
+continued. As per policy, regular monthly payments are required to keep the scheme 
+active.
 
 Scheme Withdrawal
 ==================================================
-9d. Sche me Withdrawal - Questions about early exit, cancellation, or premature closure of an 
+9d. Scheme Withdrawal - Questions about early exit, cancellation, or premature closure of an 
 enrolled scheme. 
 Queries: 
-1. Customer is asking how to close the scheme 
+1. Customer is asking how to close the scheme ? 
 If you wish to close the scheme before maturity, please note that the scheme 
 benefits will not be applicable. Refund is also not possible. However, you can use the 
 amount paid so far to purchase jewellery equivalent to that value in gold weight 
  
-2. Is Premature withdrawal or cancellation is allowed in scheme 
+2. Is Premature withdrawal or cancellation is allowed in scheme ? 
 Thank you for checking with us. As per our company policy, premature withdrawal or 
 cancellation of the scheme is not permitted. We request you to kindly continue the scheme 
-till maturity to avail the full benefits
+till maturity to avai l the full benefits 
+ 
+   3.Customer has paid for 3 months in a gold scheme; can he purchase gold by taking a 
+minimum amount from that now ? 
+Thank you for reaching out. As per policy, the scheme benefits can be availed only 
+upon completion of the full tenure. Midway redemption or purchase is not 
+permitted if you wish to continue the scheme. We recommend continuing the 
+scheme till maturity to enjoy the full benefits
 
 Exchange Policy
 ==================================================
 : 
  
 Exchange Policy 
-Customer seeking to understand the terms and condit ions for exchanging old jewellery for 
+Customer seeking to unders tand the terms and conditions for exchanging old jewellery for 
 new. 
 Queries: 
 1. Can customer exchange gold from other jewelers? 
@@ -442,15 +541,15 @@ Yes, we do accept gold purchased from other jewellers for exchange. If the gold 
 916, The gold will be tested for purity, and it will be melted and based on the 
 weight, it will be taken for the market rate 
  
-2. Customer wants to exchange KJ Gold which is bought before 5 years 
+2. Customer wants to exchange KJ Gold which is bought before 5 years ? 
 Yes, we do accept gold purchased from other jewellers for exchange. If the gold is 916, The 
-gold will be tested for purity, and it will be melted and based on the weight, it will be taken 
+gold will be test ed for purity, and it will be melted and based on the weight, it will be taken 
 for the market rate 
  
-3. Customer is asking if he can give gold coin and exchange it to jewellery 
+3. Customer is asking if he can give gold coin and exchange it to jewellery ? 
 Yes, exchange is available, but it will be tested for purity and hallmark 
  
-4. Customer wants to exchange KJ Gold jewellery which is bought yesterday 
+4. Customer wants to exchange KJ Gold jewellery which is bought yesterday ? 
 Yes, it can be exchanged within 7 days from the date of purchase but bill is 
 mandatory 
  
@@ -461,47 +560,91 @@ checked at the store, and the difference amount based on 22K pricing will need t
 be paid 
  
 6. Customer bought gold chain from KJ Chennai. He wanted to exchange it in 
-Madurai KJ. 
+Madurai KJ. ? 
 Yes, it is possible 
  
-7. Customer wante d to purchase gold coin by exchanging 50 years old gold 
+7. Customer wanted to purchase gold coin by exchanging 50 years old gold ? 
 Yes, you can exchange your old gold for a gold coin. Please visit the nearest Kalyan 
-Jewellers store where the gold will be tested for purity, and the value will be 
+Jewellers store where the gold will be tested for purity, and the value will b e 
 calculated as per the current rate 
  
-8. Customer is asking if he can give gold and buy silver 
+8. Customer is asking if he can give gold and buy silver ? 
 Yes, it is possible 
  
-9. Customer bought a silver Anklet from Malabar. Can I exchange it in KJ 
-Silver jewellery purchased from other jewellers can be exchanged at Kalyan 
+9. Customer bought a silver Anklet from Malabar. Can I exchange it in KJ ? 
+Silver jewellery purchased from other jewellers can be exchanged at K alyan 
 Jewellers, subject to purity check and valuation at the store 
  
-10. Can I buy diamond jewellery by exchanging gold coins? 
+10. Can I buy diamond jewellery by exchanging gold coins ? 
 Yes, it’s possible 
  
-11. What are the documents to be brought for diamond exchange? 
+11. What are the documents to be brought for diamond exchange ? 
 Diamond certificate and bill are mandatory 
  
-12. Customer is asking if she can exchange diamond nose pin purchased from KJ 
-As per Kalyan Jewellers’ policy, diamond nose pins are not eligible for exchange. 
+12. Customer is asking if she can exchange diamond nose pin purchased from KJ ? 
+As per Kalyan Jewellers’ policy, diamond nose pins are eligible for 
+Exchange 
  
 13. Customer purchased Rose – gold chain with diamond pendant. Now want to 
 exchange that diamond pendant, but bill and certificate are at native. Now 
-wanted to exchange at nearby store. Is it possible? 
+wanted to exchange at nearby store. Is it possible ? 
 I am happy to help. However, for exchanging a diamond pendant, it is mandatory 
 to present both the original bill and the diamond certificate. I request you to 
-bring those documents to the store so the tea m can proceed with the exchange 
+bring those documents to the store so the team can proceed with the exchange 
 process 
  
-14. Can Diamond ring be repaired / exchanged? Certificate is missing 
+14. Can Diamond ring be repaired / exchanged? Certificate is missing ? 
 Without certificate, it is not possible 
  
 15. Customer wanted to exchange diamond bought from KJ. Called and requested 
-to send quotation / invoice in e -mail 
+to send quotation / invoice in e -mail ? 
 Thank you for reaching out. For diamond exchanges, I kindly request you to visit 
 the nearest Kalyan Jewellers store. As per policy, quotations or invoices for 
 exchange cannot be shared over email or phone. The store team will assist you 
-with evaluation a nd further process.
+with evaluation and further process. 
+ 
+       16. Customer called and wanted to exchange diamond but don’t have certificate and bill ? 
+Thank you for contacting us. For diamond exchange, it is mandatory to provide 
+both the original purchase bill and the diamond certificate. In the absence of 
+these documents, we regret to inform you that the exchange process cannot be 
+initiated. 
+       17. Customer purchased gold coin from myntra and wanted to exchange at store.Is it  
+possible? 
+Yes, gold coins purchased from Myntra can be exchanged at the store, provided 
+they meet Kalyan Jewellers&#39; exchange policy. Kindly carry the original bill 
+and the 
+ 
+coin in its original condition. Final acceptance will be at the store af ter checking 
+the purity 
+ 
+18. Customer is having ruby pendant. He wants to exchange it for gold ? 
+Yes, the ruby pendant can be considered for exchange. We request you to carry 
+the original bill and certificate, if available. Based on the evaluation and puri ty, 
+the store team will guide you on the gold value eligible for exchange 
+ 
+ 
+19.Customer wants to exchange rose gold to 916 gold. Is it available ? 
+Yes, rose gold can be exchanged for 916 gold, but it will be subject to purity 
+verification. Please note that the exchange value may be significantly lower, 
+depending on the purity and alloy content of the rose gold. We recommend 
+visiting the nearest Kalyan store for proper evaluation and assistance.” 
+ 
+ 
+20. Customer purchased in Gurgaon KJ and now wants to exchan ge in Tamil 
+Nadu.Asking if it is possible.? 
+Thank you for reaching out. Yes, you can exchange the jewellery purchased from 
+our Gurgaon showroom at any of our showrooms in Tamil Nadu. Our store team 
+will assist you further. 
+ 
+ 
+21.Customer asked if he can exchange gold ring and buy gold coin ? 
+ 
+Thank you for your query. We regret to inform you that exchanging a gold ring to 
+purchase a gold coin is not permitted as per our policy. However, if you have a 
+gold 
+coin, you may exchange it and pur chase jewellery. We request you to kindly visit 
+the 
+nearest Kalyan Jewellers store for further assistance.
 
 Selling Policy
 ==================================================
@@ -509,14 +652,14 @@ Selling Policy
  
 Selling Policy 
 Customer queries related to selling their old gold or jewellery to Kalyan Jewellers, including 
-accepted purity, buyback terms, required documents, and prevailing rates. 
+accepted purity, b uyback terms, required documents, and prevailing rates. 
 Queries: 
 1. Can I sell gold which is brought from other platform / jewelers? 
 Kalyan Jewellers does not buy back gold purchased from other jewellers. 
-However, customers can exchange such gold for new jewellery, subject to purity 
+However, customers can exchange such gold for new jew ellery, subject to purity 
 verification. 
  
-2. What are the documents t o be carried while selling jewellery purchased from 
+2. What are the documents to be carried while selling jewellery purchased from 
 KJ? 
  Valid Government -issued ID proof (e.g. Aadhaar, PAN) 
  Cancelled cheque leaf 
@@ -525,32 +668,32 @@ KJ?
 3. In how many days money will be transferred to Bank Account? 
 3-5 Working days 
  
-4. Customer called and aske d if he sell gold bar purchased from KJ 
+4. Customer called and asked if he sell gold bar purchased from KJ ? 
 Yes, you can sell the gold bar if it was purchased from Kalyan Jewellers. The purity 
 will be tested in -store, and standard 2% deduction will be applied and additional 
 deduction will be based on purity test result 
  
-5. Customer is asking if silver can be sold at KJ 
+5. Customer is asking if silver can be sold at KJ ? 
 Yes, it is possible but minimum it should be 100gms and it will be tested for purity 
  
 6. Customer bought silver bar from other jewellery. He is asking if he can resell it 
-at KJ 
+at KJ ? 
 Silver purchased from other jewellers cannot be resold at Kalyan Jewellers. Resale 
-is only allowed for silver originally bought from Kalyan 
+is only allowed for silver originally bought from Ka lyan 
  
-7. Customer wants to resale diamond. Asking for details 
+7. Customer wants to resale diamond. Asking for details ? 
 Yes, resale of diamond jewellery is possible, provided the item was originally 
-purchased from Kalya n Jewellers. Kindly ensure you carry the original purchase 
+purchased from Kalyan Jewellers. Kindly ensure you carry the original purchase 
 certificate and bill for verification during your visit to the store 
  
 8. Customer is calling if he can sell diamond bought at KJ. He purchased at TN and 
-want to sell it at Bangalore 
+want to sell it at Bangalore ? 
 Yes, it is possible but diamond certificate is mandatory 
  
 9. Customer purchased diamond bracelet from KJ. But size is small. Now he wants 
-to sell it 
+to sell it ? 
 Yes, you can sell the diamond bracelet back to Kalyan Jewellers. Please ensure 
-you have the original bill and diamond cer tificate with you. The resale process 
+you have the original bill and diamond certificate with you. The resale process 
 typically takes about 3 to 5 working days. Kindly visit the nearest store for 
 assistance 
  
@@ -558,18 +701,18 @@ assistance
 Nose pins are not eligible for return at Kalyan Jewellers due to hygiene and safety 
 reasons. I recommend verifying the specifications carefully before purchase. 
  
-11. Customer called and asked if he can sell KJ gold jewels at other gold jewellery 
-While you may choose to sell your Kalyan Jewellers gold jewellery at other shops, 
-I rec ommend visiting your nearest Kalyan store. We follow a transparent and fair 
+11. Customer called and asked if he can sell KJ gold jewels at other gold jewellery ? 
+While you may cho ose to sell your Kalyan Jewellers gold jewellery at other shops, 
+I recommend visiting your nearest Kalyan store. We follow a transparent and fair 
 evaluation process, offer competitive rates based on purity and weight, and 
-ensure a trusted resale experience. Kindly carry the bank account details and ID 
+ensure a trusted resale experience . Kindly carry the bank account details and ID 
 proof when you visit. 
  
 12. Customer purchased gold bar from Joy Alukkas, Dubai. Now wanted to sell it at 
-KJ 
+KJ ? 
 I regret to inform you that Kalyan Jewellers accepts only gold jewellery or bars 
-originally purchased from our stores. As the gold bar was purchased from 
-another brand, we wil l not be able to proceed with the buyback. I appreciate 
+originally purchased f rom our stores. As the gold bar was purchased from 
+another brand, we will not be able to proceed with the buyback. I appreciate 
 your understanding
 
 Billing Requests
@@ -577,23 +720,31 @@ Billing Requests
 : 
  
 Billing Requests 
-Requests for copies of invoices, billing errors, or tax -related clarifications. 
+Requests for copies of invoices, billing errors, or tax -related cl arifications. 
 Queries: 
-1. Customer is asking if he can shift silver to US? 
+1. Customer is asking if he can shift silver to US ? 
 I am sorry, but shifting or exporting silver purchased from Kalyan Jewellers to the 
 U.S. is not permitted as per our policy 
  
-2. Customer called and asked for duplicate bill. He missed the original bill 
-I’m sorry, but as per Kalyan Jewellers’ policy, we are un able to issue a duplicate bill 
+2. Customer called and asked for duplicate bill. He missed the original bill ? 
+I’m sorry, but as per Kalyan Jewellers’ policy, we are unable to issue a duplicate bill 
 once the original is lost. However, please check your email inbox, as the bill copy is 
-usually sent at the time of purchase. 
+usua lly sent at the time of purchase. 
  
 3. Customer wanted to travel abroad and wanted to carry gold jewellery. Asking for 
-bill copy. 
+bill copy. ? 
 Sure, to help you with the bill copy for your travel purpose, I request you to either 
 visit the nearest Kalyan Jewellers store or send an email to 
 info@kalyanjewellers.net along with a copy of your travel ticket and visa. Our 
-team will assist you further.
+team will assist you further. 
+ 
+4. Customer has saved Rs.14,000 (5 rupees coins). Asking if he can purchase 
+silver with it? 
+Thank you for che cking with us. As per store policy, only up to ₹2,000 in coins can 
+be accepted for a transaction. Since the amount exceeds this limit, we kindly 
+suggest depositing the coins at your bank and using an alternate payment method 
+like cash / card / UPI for your purchase at Kalyan Jewellers. We appreciate your 
+understanding.
 
 Payment Mode
 ==================================================
@@ -602,41 +753,47 @@ Payment Mode
 Customer enquiries about accepted modes of payment such as cash, debit/credit cards, UPI, 
 net banking, and financing options at Kalyan Jewellers stores. 
 Queries: 
-1. Customer is asking if she can purchase jewel for above 5 lakhs using cash 
+1. Customer is asking if she can purchase jewel for above 5 lakhs using cash ? 
 As per payment regulations, you can pay ₹2 lakhs in cash, ₹1 lakh through UPI, ₹1 
 lakh by card(RBI approved debit & credit cards) , and the remaining amount 
-through cheque or online bank transfer. 
+through cheque or onli ne bank transfer. 
  
 2. What is the GST for gold jewellery? 
-Overall, 3 % applicable on all bills 
+Overall, 3% applicable on all bills 
  
 3. What are the documents to be brought for purchasing gold jewels? 
 Valid ID Proof (Aadhar Card, PAN Card) and registered mobile number 
  
-4. Customer is asking if there are any EMI options available 
-Thank you for your enquiry. Currentl y, Kalyan Jewellers does not offer EMI 
+4. Customer is asking if there ar e any EMI options available ? 
+Thank you for your enquiry. Currently, Kalyan Jewellers does not offer EMI 
 options on jewellery purchases. For flexible payment choices, you may explore 
 our advance booking or gold scheme options available at the store 
  
-5. Is Credit card / Debit card accepted for purchasing jewels? 
-Yes, it is a ccepted 
+5. Is Cre dit card / Debit card accepted for purchasing jewels? 
+Yes, it is accepted 
  
 6. Can a customer buy jewels using Bajaj EMI card? 
 I'm sorry, but purchases at Kalyan Jewellers cannot be made using a Bajaj EMI 
-card. We currently do not support EMI options through Bajaj Finance. 
+card. We currently do not support EMI options through B ajaj Finance. 
  
-7. Customer paid for 3 months and now want to drop. As king if he can go and 
-purchase gold for that amount 
+7. Customer paid for 3 months and now want to drop. Asking if he can go and 
+purchase gold for that amount ? 
 Thank you for reaching out. If the customer wishes to drop the scheme after 3 
-months, the scheme benefits will not be applicable. However, gold can be 
+months, the scheme benefits will not be applicable. Howeve r, gold can be 
 purchased based on the accumulated weight. Please note, this option is available 
 only after completing 6 months in the scheme 
  
 8. Customer made a transaction for scheme but transaction failed and amount got 
-debited from his bank account 
+debited from his bank account ? 
 We understand your concern. If the transaction failed but the amount has been 
 debited, we request you to wait for 3 –5 working days. The amount will usually be 
-auto -credited back to your bank account during this period
+auto -credited back to your bank account during this period 
+ 
+   9.Customer called and enquired if American Express card will be accepted at mini kalyan for 
+scheme payment ? 
+Thank you for your query. Currently, American Express cards are not accepted at 
+Mini Kalyan stores for scheme payments. However, you may visit the main Kalya n 
+store, where all major cards, including American Express, are accepted
 
 Regional Price Variation
 ==================================================
@@ -646,65 +803,67 @@ Regional Price Variation
 Queries: 
  
 1. Silver charge is high at Noida and low at Tamilnadu. Customer is asking why there 
-is big difference in amount 
+is big difference in amount ? 
 Silver jewellery pricing may vary across regions due to differences in making charges, 
 local taxes, and other operational factors. Each state has its own pricing structure 
-based on these e lements
+based on these elements
 
 Store contact request
 ==================================================
 : 
 Store contact request 
 Queries: 
-1. Customer asking Showroom number to talk to a particular employee 
+1. Customer asking Showroom number to talk to a particular employee ? 
 I understand you’d like to speak with a particular staff member. However, as per policy, we 
-can only share the store’s official contact number, not individual employee contact details. 
+can only share the store’s official contact number, not individual employee cont act details. 
 You may call the store and they will assist you accordingly 
  
 2. Family members of KJ sales agent called and said relative has passed away. But 
-couldn’t reach the sales agent number at store 
+couldn’t reach the sales agent number at store ? 
 I am truly sorry to hear about the loss. As a customer care team, we don’t have direct access 
 to personal contact details of our store staff. I request you to kindly reach out to the 
-concerned Kalyan Jewellers store directly through the store lan dline number. 
+concerned Kalyan Jewellers store directly through the store landline numb er. 
  
 3. Bank person called from Karnataka and asked for store sales agent details from 
 Delhi. Sales agent has taken personal loan of 5 lakhs and given secondary number 
-as customer care number. Could not reach him 
-I understand your concern. However, as per our company policy, I cannot share any store 
+as customer care number. Could not reach him ? 
+I understand your concern. However, as per o ur company policy, I cannot share any store 
 staff’s personal or contact details. I suggest contacting the concerned person personally. This 
 is a centralized customer care number meant specifically for customer -related queries and 
-support 
- 
- 
- 
-Store L ocator :
+support
 
 Store Locator
 ==================================================
+: 
+ 
+Store Locator 
 Assistance in locating the nearest Kalyan Jewellers showroom. 
 Queries: 
-1. Customer is asking for address / location of particular branch. 
+1. Customer is asking for address / location of particular branch. ? 
 check the NAS server and share the verified details.
 
 Gun Shot
 ==================================================
 : 
  
- 
- 
- 
 Gun Shot 
 Customer enquiries about ear or nose piercing services done using the gunshot method, 
 which is a quick, hygienic, and safe piercing technique offered at select Kalyan Jewellers 
 stores. 
 Queries: 
-1. Customer enquires about gunshot availability at particular store? 
+1. Customer enquires about gunshot availability at particular sto re? 
 Yes, ear and nose piercing using the gunshot method is available at all Kalyan 
 Jewellers showrooms. Cost would be Rs.350. 
  
 2. Is multiple ear piercing available at kalyan Jewellers? 
 Multiple ear -piercing services are not available at Kalyan Jewellers. We currently 
-offer only basic ear piercing. Thank you for your understanding
+offer only basic ear piercing. Thank you for your understanding 
+ 
+ 
+3. Is ear piercing available for 11 months baby? 
+Thank you for your enquiry. We regret to inform you that ear piercing is not 
+available for babies below 1 year of ag e. The minimum age requirement is 1 year, in 
+line with our safety and hygiene guidelines.
 
 Goldsmith
 ==================================================
@@ -714,12 +873,12 @@ Customer enquiries about the availability of an in -house goldsmith for services
 resizing, repair, or custom work at the store. 
  
 Queries: 
-1. Customer is asking if goldsmith is available 
+1. Customer is asking if goldsmith is available ? 
 Let me check with the respective store regarding the availability of the goldsmith. 
 I’ll arrange a callback for you with the update shortly. 
  
-2. Customer is asking for goldsmith availability. He wa nts manual ear piercing for 
-his kid and not gun shot 
+2. Customer is asking for goldsmith availability. He wants manual ear piercing for 
+his kid and not gun shot ? 
 Let me check with the respective store regarding the availability of the goldsmith. 
 I’ll arrange a callback for you with the update shortly. Ear piercing is done at the 
 minimum age of 1.
@@ -731,7 +890,7 @@ Working Hours
 Working Hours 
 Enquiries about daily opening and closing timings of specific branches. 
 Queries: 
-1. Customer is asking for Store Timings 
+1. Customer is asking for Store Timings ? 
  Tamil Nadu – 10.00 am till 09.00 pm 
  Kerala – 10.00 am till 08.00 pm 
  Karnataka – 10.00 am till 09.00 pm 
@@ -748,18 +907,18 @@ Customers seeking information about job openings, hiring process, or internship
 opportunities. 
  
 Queries: 
-1. Model agency person called and enquired if KJ needs model for shooting 
+1. Model agency person called and enquired if KJ needs model for shooting ? 
 Thank you for your interest in collaborating with Kalyan Jewellers. For modelling or 
 photoshoot -related opportunities, I request you to kindly share your portfolio and 
 details by writing to customercare@kalyanjewellers.net. The concerned team will 
 review and get in touch if required. 
  
 2. Is there a job vacancy in particular location? 
-Thank you for your interest in joining Kalyan Jewellers. For information regarding current job 
+Thank you for your interest in joining Ka lyan Jewellers. For information regarding current job 
 openings in your preferred location, I request you to send your resume and query to 📧 
 careers@kalyanjewe 
 llers.net. Our HR team will get in touch if there’s a suitable opportunity. 
-3. How to apply for j ob at KJ?   
+3. How to apply for job at KJ?   
 Thank you for your interest in working with Kalyan Jewellers. To apply for a job, please email 
 your resume to 📧 careers@kalyanjewellers.net. Our recruitment team will review your 
 profile and connect with you if there’s a suitable opening
@@ -771,7 +930,7 @@ Business -related queries about partnership, dealership, or franchise opportunit
 Kalyan Jewellers. 
  
 Queries: 
-1. A person called and said he wanted to start Franchise Store. Asked for details 
+1. A person called and said he wanted to start Franchise Store. Asked for details ? 
 Thank you for your interest in starting a franchise with Kalyan Jewellers. For all franchise -
 related enquiries, I kindly request you to send an email to 
 franchise.enquiry@kalyanjewellers.net with your details or visit 
@@ -786,22 +945,29 @@ Customers requesting guidance or collection options for wedding and bridal jewel
 Queries: 
  
 1. Received a call stating “we are calling from Kalyan matrimony”. Customer called 
-and verified if the call is true 
+and verified if the call is true ? 
 Thank you for checking with us. The official contact number for Kalyan Matrimony is 
 044-4014 -6969 . If the call you received came from a different number, I recommend 
-being cautious and not shari ng any personal or financial details. For any matrimony -
+being cautious and not sha ring any personal or financial details. For any matrimony -
 related queries, please reach out to their official helpline 
  
 2. Customer called and said he received a random call from kalyan matrimony and the 
       person is asking to do payment. But customer didn’t register at kalyan matrimony 
+? 
 Thank you for bringing this to our notice. Since you have not registered with them and the 
-caller is asking for payment, I recommend that you do not share any personal or financial 
+caller is asking for payment, I recommend that you do not share any personal or financia l 
 information. It could be a fraudulent call. 
  
-3. Customer asked how to login t o kalyan Matrimony 
+3. Customer asked how to login to kalyan Matrimony ? 
 Thank you for reaching out. For help with logging in to Kalyan Matrimony, I suggest 
 contacting their official support team. You can reach them at 044 -4014 -6969, and they’ll 
-assist you with the login process and any other related queries
+assist you with the login process and any other related queries 
+ 
+   4. Customer has paid matrimony fee but no response from matrimony team ? 
+Thank you for bringing this to our attention. We sincerely regret the 
+inconvenience. Kindly contac t the official Kalyan Matrimony team at 044 -4014 
+6969 for further assistance regarding your payment and status. They will help you 
+with the necessary support
 
 Gift Card / Voucher Enquiry
 ==================================================
@@ -809,24 +975,25 @@ Gift Card / Voucher Enquiry
 Queries related to gift cards —purchase, redemption, balance check, or terms of use. 
 1. Can I claim gold with IDFC Voucher? 
 Check the voucher's expiry date and basic details. To confirm its usage and offer 
-applicability, ask customer to visit nearest Kalyan Jewellers showroom and check with 
+applicability, ask customer to visit nearest Kalyan Jewellers showroom and che ck with 
 the billing counter 
  
 2. Customer is asking if he can purchase Gift vouchers from kalyan for his employees 
+? 
 Yes, Kalyan Jewellers does offer gift vouchers for corporate or employee gifting. For 
-bulk orders, I kindly request you to contact the store manager directly, who will assist 
+bulk orders, I kindly request you to contact the store ma nager directly, who will assist 
 you with the process and available options. 
  
-3. Customer received a s pam call saying he has received marriage gift coupon from 
-KJ and asking for his address and personal information 
-Thank you for informing us. Please note that Kalyan Jewellers never asks for personal 
+3. Customer received a spam call saying he has received marriage gift coupon from 
+KJ and asking for his address and personal information ? 
+Thank you for informing us. Please note tha t Kalyan Jewellers never asks for personal 
 or address details over unknown calls. This seems to be a spam or fraudulent call. I 
 recommend not sharing any information and blocking the number. You can also 
 report such incidents to your nearest store or email us at info@kalyanjewellers.net 
 for further assistance. 
  
 4. Customer is having 156 rewards points from debit card. He wants to redeem at KJ. 
-Asking if its possible 
+Asking if its possible ? 
 No, we will not do 
  
 5. Customer is asking how to claim KJ voucher? 
@@ -836,19 +1003,19 @@ jewellery purchase at any of our stores. The team at the store will help you red
 accordingly 
  
 6. Customer is having Rupay card with 2000 cash reward. He was informed that it 
-shall be used at any jewelers. So , he called if he can use it at KJ? 
+shall be used at any jewelers. So, he called if he can use it at KJ? 
 Thank you for reaching out. While some Rupay cards offer rewards that can be used 
-at jewellery stores, the acceptance depends on the specific terms and conditions of 
-your card issuer. I recommend that you kindly check wi th the cash or billing counter 
+at jewellery stores, the ac ceptance depends on the specific terms and conditions of 
+your card issuer. I recommend that you kindly check with the cash or billing counter 
 at the nearby Kalyan Jewellers store for confirmation and guidance before making a 
 purchase 
  
-7. Customer received a voucher from Candere. He is asking if he can redeem in KJ? 
-Want to purchase gold coin 
-Thank you for checking wit h us. The voucher you received from Candere can only 
+7. Customer received a v oucher from Candere. He is asking if he can redeem in KJ? 
+Want to purchase gold coin ? 
+Thank you for checking with us. The voucher you received from Candere can only 
 be redeemed on Candere's platform 
  
-8. Customer got a gift voucher 3 years back. Expiry date was exceeded. Is it possible 
+8. Customer got a gift voucher 3 years back. Expiry date w as exceeded. Is it possible 
 to redeem now? 
 Thank you for reaching out. I truly appreciate your interest in using the gift voucher. 
 However, since the expiry date has already passed, I'm sorry to inform you that it 
@@ -856,7 +1023,67 @@ cannot be redeemed now as per our company policy.
  
 9. Customer is having gold voucher in mail. Asking if it will be accepted at KJ? 
 Yes, the gold voucher received by email can be accepted at Kalyan Jewellers. However, the 
-store team will verify the voucher details and validity at the time of redemption. 
+store team will verify the voucher details and validity at the time of redempti on. 
+ 
+   10. Customer called and said he is having a Candere voucher and asked if it can be 
+exchanged at Offline Kalyan Store ? 
+Thank you for reaching out. Candere vouchers are valid only for purchases made 
+through the Candere online platform and cannot be redeemed at Kalyan Jewellers 
+offline stores. 
+ 
+       11. Can I encash the gift voucher worth ₹2100 instead of using it to purchase a 
+product? 
+The ₹2100 gift voucher cannot be encashed or converted to money. It can only be 
+redeemed against product purchases as per the voucher terms. 
+ 
+ 
+12. Customer is asking if he can use multiple vouchers on a single gold purchase? 
+Thank you for your query. As per the current policy, multiple vouchers cannot be 
+used for a single gold purchase. Only one voucher can be applied per transaction 
+ 
+      13. Customer is asking if he can redeem the swiggy instamart gift voucher online ? 
+Thank you for reaching out. The Swiggy Instamart gift voucher cannot be redeemed 
+online. It is valid for use only at our physical store locations. I recommend visiting the 
+nearest Kalyan Jewellers store for assistance with redemption. 
+ 
+14.Is there any minimum limit of gold purchase on swiggy instamart for getting swiggy 
+instamart voucher ? 
+The Swiggy Instamart gift voucher is applicable on Rakhi purchases as part of the 
+ongoing offer. There is no minimum purchase value required. Please ensure your 
+purchase falls under the eligible category to avail the benefit 
+ 
+ 
+15.The customer would like to understand why the specific condition stating that 
+&#39;₹2100 will be reduced on VADD&#39; is not explicitly mentioned in the Swiggy 
+Instamart gift voucher. He is questioning why such important terms are not clearly 
+detailed, especially when the voucher generally states it is applicable for gold, 
+diamond, and platinum jewellery purchases ? 
+ 
+We understand your concern regarding the clarity of the Swiggy Instamart gift 
+voucher terms. While the voucher highlights its applicability on gold, diamond, a nd 
+platinum jewellery purchases, specific details like the deduction being applied on 
+VADD are part of the internal billing process and may not always be printed explicitly 
+on the voucher. However, all applicable terms and conditions are communicated 
+throu gh our promotional channels or can be clarified at the store during billing. We 
+appreciate your feedback and will certainly pass it along to the concerned team to 
+help improve clarity in future communications. 
+ 
+ 
+16.Customer received swiggy instamart Gift V oucher from Tamil nadu and wants to 
+utilize at Bangalore. Asking if it’s possible ? 
+Yes, the Swiggy Instamart Gift Voucher received in Tamil Nadu can be utilized at our 
+Bangalore showrooms as well. Kindly carry the original voucher while visiting the 
+store . The team will assist you with the redemption during your purchase. 
+ 
+ 
+17.Customer asked if gift vouchers will be issued for every purchase made using the 
+same mobile number ? 
+Thank you for your interest. Gift voucher issuance is system -driven and may vary 
+with each transaction. While we encourage you to continue shopping with us, we are 
+unable to guarantee voucher availability for every purchase made with the same 
+mobile number. 
+ 
+ 
  
  
  
@@ -871,7 +1098,7 @@ Pre -Booking(wedding, anniversary, baby shower)
 Advance booking requests for jewellery needed for special events and celebrations. 
 Queries: 
 1. Is there advance booking facility available for jewels? 
-Yes, Kalyan Jewellers offers advance booking for jewellery. You can visit the nearest store to 
+Yes, Kalyan Jewellers offers advance booking for jewellery. You can visi t the nearest store to 
 select your design and book it in advance by paying the required advance amount. Our store 
 staff will assist you with the complete booking process.
 
@@ -882,38 +1109,54 @@ Support related to polishing, resizing, repairs, or general upkeep of jewellery.
 1. Customer has bought gold chain at KJ and now its cut. Is it possible to fix? Will 
 there be additional cost for it? 
 Kalyan Jewellers provides lifetime maintenance support for jewellery purchased from 
-us. Your gold chain can be repaired without any additional cost. Please visit the 
+us. Your gold c hain can be repaired without any additional cost. Please visit the 
 nearest showroom for assistance 
  
-2. Customer purchased jewel from other jewellery. Can he come to K J and get it 
+2. Customer purchased jewel from other jewellery. Can he come to KJ and get it 
 repaired? 
 Repairs for jewellery not purchased from Kalyan are taken up at the discretion of the 
 store manager. I’ll arrange a callback from the respective store to guide you on this 
  
-3. Is Silver jewellery repair being available at KJ? Should customer bring original bills 
-Yes, it is possible. If you have bills, you can carry to the store 
+3. Is Silver jewellery repair being available at KJ? Should customer bring original bills ? 
+Yes, it is possible. If you have bills, y ou can carry to the store 
  
 4. Customer wanted to repair silver anklet bought from other jewellery. She is asking 
-if it’s possible 
-I understand your re quest. Repair of silver jewellery purchased from other jewellers 
-is subject to inspection and approval by the store manager. I recommend visiting the 
+if it’s possible ? 
+I understand your request. Repair of silver jewellery purchased from other jewellers 
+is subject to inspection and approval by t he store manager. I recommend visiting the 
 nearest Kalyan Jewellers showroom so our team can assess the item and guide you 
 accordingly 
  
-5. Customer is a sking if insurance is available for gold jewellery at KJ? 
-Yes, Kalyan Jewellers provides 1 -year insurance for gold jewellery. For further details 
-and terms, I recommend contacting the nearest Kalyan store
+5. Customer is asking if insurance is available for gold jewellery at KJ? 
+Yes, Kalyan Jewellers provides 1 -year insurance f or gold jewellery. For further details 
+and terms, I recommend contacting the nearest Kalyan store 
+ 
+     6. Customer purchased jewel at KJ Tamilnadu store. Asking if he can repair at Bangalore ? 
+Yes, jewellery purchased from any Kalyan Jewellers store, including Tamil Nadu, can 
+be repaired at our Bangalore store as well. We offer lifetime maintenance across all 
+our branches. Please visit our Bangalore store and they will be happy to assist you 
+with the repair
 
 Donation
 ==================================================
 Donation 
 1. Student from St.Joseph called and asking for donation from KJ. It is for social 
-welfare activity 
+welfare activity ? 
 Thank you for reaching out. For donation or sponsorship -related requests, I kindly 
 request you to send a detailed email to customercare@kalyanjewellers.net . Please 
-make sure to incl ude all relevant information about the event or activity, along with 
+make sure to include all relevant information about the event or activity, along with 
 any official documentation. The concerned team will review and get back to you if 
-required
+required 
+ 
+ 
+ 
+2.Student from Madras Christian College called and asking for donatio n from KJ. It 
+is for social welfare activity ? 
+Thank you for reaching out. For donation or sponsorship -related requests, I kindly 
+request you to send a detailed email to customercare@kalyanjewellers.net (or) 
+info@kalyanjewellers.net Please make sure to inc lude all relevant information 
+about the event or activity, along with any official documentation. The concerned 
+team will review and get back to you if required
 
 Customer Complaint
 ==================================================
@@ -923,37 +1166,37 @@ Customers raising concerns or dissatisfaction regarding product, service, or sta
 1. Customer has paid for 10 months scheme and received a call from Madurai store to 
 purchase gold jewellery. So, customer went and customized a gold chain. Customer 
 called to store number multiple times to check the status but no response from 
-store. So, he called customer care and asking for refund and to cancel the order. 
+store. So, he called customer care and asking for refund and to cancel the order. ? 
 I am really sorry you haven’t received an update from the store. Since this involves a scheme 
 redemption and a custom -made order, cancellation and refunds need to be handled directly 
 by the store team. I’ll escalate this right away and arrange for someone from the Madurai 
 showroom to call you with a resolution as soon as possible. 
-2. Customer called an d complained that store didn’t inform the difference between 
+2. Customer called and complained that store didn’t inform the difference between 
 18 and 22 carat gold jewellery and sold 18 carats to him. Now he wants to send this 
-message to brand ambassador Actor Prabhu 
-I sincerely apologize if there was any confusion regarding the carat o f the jewellery. Actor 
+message to brand ambassador Actor Prabhu ? 
+I sincerely apologize if there was any confusion regarding the car at of the jewellery. Actor 
 Prabhu is our brand ambassador, but he’s not directly involved in product or service 
 operations. I’ll escalate your concern to the relevant team and ensure the store gets in touch 
-with you to clarify and resolve this at the earliest 
+with you to clarify and resolve this at the earli est 
 3. Customer complained about store. She purchased thali Chain (64gms) but chain has 
 broken twice in 3 years. When went to shop for replacement, they assured to do 
 and took back the chain with them for 19 days. Now store people called and said 
-they can’t do an ything. Asked to go for exchange. She complained about the quality 
-of jewel and irresponsible behavior of store 
+they can’t d o anything. Asked to go for exchange. She complained about the quality 
+of jewel and irresponsible behavior of store ? 
 I sincerely regret the inconvenience you’ve faced. I understand your concern regarding both 
-the product quality and store response. I will escal ate this to the concerned team with 
+the product quality and store response. I will escalate this to the concerned team with 
 complete details, and you will receive a callback from the store or escalation desk at the 
 earliest 
 4. One year ago, customer purchased gold chain from KJ using scheme. Its broken 
-thrice and now wanted to file a complaint a gainst KJ 
+thrice and now wanted to file a compl aint against KJ ? 
 I’m really sorry to hear that you’ve faced repeated issues with your chain. I will escalate your 
 concern to our quality and service team for further review. You will receive a callback from 
 the concerned department shortly 
-5. Customer is complaining on billing issue, saying extra charges was put in bill for 
+5. Customer is com plaining on billing issue, saying extra charges was put in bill for 
 diamond ring. Went to store but no response, so called and asking to raise a 
-complaint 
+complaint ? 
 I am sorry to hear about your experience. I will raise a formal complaint regarding the 
-billing concern for y our diamond ring. Our team will review the invoice details and 
+billing con cern for your diamond ring. Our team will review the invoice details and 
 the store will get back to you with a resolution at the earliest. Please allow us some 
 time while I escalate this for you. 
  
@@ -962,64 +1205,121 @@ You will surely receive the softcopy of the bill to your registered email ID and
 number. If not received yet, please send a request to info@kalyanjewellers.net with 
 your purchase details, and the team will assist you further. 
  
-7. Customer called and sh outed that marketing team is continuously calling and 
-asking to purchase jewel. 
+7. Customer call ed and shouted that marketing team is continuously calling and 
+asking to purchase jewel. ? 
 I sincerely apologize for the inconvenience caused by repeated marketing calls. I will 
-immediately escalate to the concerned team and ensure that you are not disturbed 
+immediately escalate to the concerned team and ensure that you are not disturb ed 
 again. Thank you for bringing this to our attention 
  
 8. Customer called and said that he is receiving birthday wish but he didn’t register 
-his mobile number to kalyan 
+his mobile number to kalian ? 
 Thank you for informing us. I sincerely apologize if you received any message without 
 your consent. I will forward your number to our team for verification and check if it 
 was registered by mistake. I appreciate your understanding 
  
 9. Customer called and said Flex board is fixed at his place. Now he wants to move it 
-to certain distance. Contractor has give n only 9 numbers, so he could not make a 
-call 
+to certain distance. Contra ctor has given only 9 numbers, so he could not make a 
+call ? 
 Thank you for bringing this to our notice. Since the contractor's contact number is 
 incomplete and you're unable to reach them, I suggest you visit the nearby Kalyan 
-Jewellers store. The store team will assist you with the correct contact details or help 
+Jewellers store. The store te am will assist you with the correct contact details or help 
 coordinate the relocation of the flex board 
  
-10. Customer is complaining that he and his family was not treated good at store 
+10. Customer is complaining that he and his family was not treated good at store ? 
 I sincerely apologize for the experience you and your family had at our store. This is 
 not the level of service we aim to provide at Kalyan Jewellers. Kindly share your 
 contact details and store location so I can have the concerned team reach out to you 
 at the earliest. 
  
-11. Customer called and enquired about “my kalyan” at mettupalayam and was gu ided 
+11. Customer called and enquired about “my kalyan” at mettup alayam and was guided 
 with address from website. Once he visits, shop wasn’t there. He called back and 
-raised complaint for misleaded information 
+raised complaint for misleaded information ? 
 I am extremely sorry for the inconvenience caused due to the incorrect store 
-information. I understand your frustration and wil l inform this immediately to have 
+information. I understand your frustration and will inform this immediately to have 
 the details verified and corrected. 
  
 12. Customer called and complained about marketing agent. Marketing agent took 3 
-months scheme amount and relieved from job. Didn’t update in ledger 
-I’m really sorry to hear about your expe rience. I truly regret the inconvenience 
+months scheme amount and relieved from job. Didn’t update in ledger ? 
+I’m really sorry to hear about your experience. I truly regret the inconvenience 
 caused. Please visit the nearest Kalyan Jewellers showroom with any proof of 
 payment or communication you may have. Our team at the store will verify the 
-details and assist you further. I will also ensure this is es calated to the concerned 
+details and assist you further. I will a lso ensure this is escalated to the concerned 
 team for necessary action 
  
 13. Customer called and shouted that he got a gunshot yesterday but hole was small. 
-He is very angry, shouted about the store and gunshot person. 
-I sincerely regret to hear about your experience. Your feedbac k is taken very 
+He is very angry, shouted about the store and gunshot person. ? 
+I sincerely regret to hear about your e xperience. Your feedback is taken very 
 seriously, and I understand the concern you've raised. I will be forwarding the details 
 to the relevant store. Thank you for bringing this to our attention 
  
-14. Customer enquired why KJ need 3 working days for bank transaction process 
+14. Customer enquired why KJ need 3 working days for bank transa ction process ? 
 Thank you for your query. The 3 working days timeline is due to standard banking 
 procedures and internal verification processes to ensure secure and accurate 
 transactions. I understand the urgency, but this timeline helps avoid any 
-discrepancies or delays in proces sing. I appreciate your patience and understanding 
+discrepa ncies or delays in processing. I appreciate your patience and understanding 
  
 15. Staff at store is not explaining the scheme details properly. So called customer care 
-and complained about it 
+and complained about it ? 
 I am really sorry to hear about your experience at the store. Your feedback is 
 important to us and I will definitely share this with the concerned store. Meanwhile, 
-if you'd like, I can help explain the scheme details over this call
+if you'd like, I can help explain the scheme details over this call 
+ 
+  16. Customer is complaining there is no IGI logo in diamond certificate ? 
+I understand your concern regarding the IGI logo on the diamond certificate. At 
+Kalyan Jewellers, certificates are issued by authorized and recognized gemmological 
+laboratories, and the format may vary depending on the lab. I recommend visiting 
+the store wit h your certificate so our team can verify its authenticity and explain the 
+details for your assurance 
+ 
+ 
+  17.Ex – sales employee of KJ called and complained about Salem Store BH that store is delaying    
+job and selecting freshers. No proper response ? 
+ 
+Thank you for sharing your concern. I understand your feedback. However, this is the 
+central customer care line and recruitment or internal store -related matters are 
+handled directly by the respective departments / store. You may also write at 
+customer care@kalyanjewellers.net with complete details 
+ 
+ 
+18. Customer was asking in harsh way why he wanted to share his personal details 
+before addressing his query ? 
+I understand your concern, sir. We ask for certain details only to verify your identity 
+and ensu re we’re discussing your account or issue securely. This is to protect your 
+privacy and provide accurate support 
+ 
+19. Customer complained that his scheme was matured and he purchased a jewel 
+by paying an additional ₹17,000, but the bill was given only for ₹15,000. He was 
+told to pay ₹190 to join a new scheme, but it seems the remaining ₹2,000 was used 
+for that without informing me. Why wasn’t he billed for the full amount and why 
+was the ₹2,000 adjusted without his consent? 
+ 
+Thank you for bringing this matter to our attention. As per standard procedure, all 
+amounts collected should be duly reflected in the invoice, and any enrolment into a 
+scheme must be clearly communicated to the customer. We kindly suggest reaching 
+ 
+out to the respective store team fo r a detailed clarification regarding the ₹2,000 
+adjustment and the discrepancy in the billing amount 
+ 
+ 
+20.Customer complained that fake commitment has be given saying that benefits is 
+applicable even after delayed scheme monthly payment at Karur Store ? 
+ 
+We regret the inconvenience caused. Scheme benefits are applicable only when 
+monthly payments are made on or before the due dates. However, we will escalate 
+your concern regarding the commitment made at the Karur store to the relevant 
+team. A callback will be arranged shortly to address this further. Thank you for 
+bringing this to our notice 
+ 
+ 
+21Customer complained for giving tissue box as token of gift for purchasing 
+diamond jewellery at LULU mall, Trivandrum location. She is very upset and asking 
+why insul ting by giving tissues and asking for callback from store ? 
+ 
+We sincerely apologize for your experience at our Lulu Mall, Trivandrum showroom. 
+We truly value our customers and regret that the gift provided did not meet your 
+expectations. Your feedback has been noted. We will arrange a callback at the 
+earliest to address your concerns directly. Thank you for bringing this to our 
+attention.
 
 Gold Loan
 ==================================================
@@ -1031,4 +1331,13 @@ Queries:
 Thank you for your enquiry. We regret to inform you that gold loan facilities are not 
 available at Kalyan Jewellers. For any further assistance or services, feel free to visit 
 your nearest store.
+
+Jewel Insurance
+==================================================
+1.Customer called and said jewel is theft. Asking if insurance is available ? 
+ 
+We’re sorry to hear about the incident. For assistance regarding insurance or any 
+related support, we kindly request you to visit the Kalyan Jewellers store where 
+jewel is purchased. The team there will guide you with th e available options and 
+necessary process.
 

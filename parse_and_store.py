@@ -355,8 +355,8 @@ def extract_sections(pdf_path):
         "Product Customization Requests",
         "Availability Status at Specific Stores",
         "Online Purchase",
-        "Scheme queries",
-        "Scheme Enquiry",
+        "Scheme & Scheme Enquiry",
+     
         "Scheme Enrolment Details",
         "Scheme Maturity",
         "Scheme Withdrawal",
@@ -378,7 +378,9 @@ def extract_sections(pdf_path):
         "Jewellery Maintenance",
         "Donation",
         "Customer Complaint",
-        "Gold Loan"
+        "Gold Loan",
+        "Jewel Insurance"
+
     ]
 
     # Optional fallback aliases (for known mismatches)

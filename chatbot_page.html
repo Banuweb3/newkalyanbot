@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kalyan Jewellers - FAQ Assistant</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+        }
+        
+        .header {
+            background: linear-gradient(90deg, #FFD700, #FFA500, #FF8C00);
+            padding: 2rem;
+            text-align: center;
+            box-shadow: 0 4px 20px rgba(255, 215, 0, 0.3);
+        }
+        
+        .header h1 {
+            color: #2C1810;
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .header p {
+            color: #5D4E37;
+            font-size: 1.2rem;
+            font-style: italic;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        
+        .chatbot-container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            border: 3px solid #FFD700;
+            overflow: hidden;
+            height: 80vh;
+            min-height: 600px;
+        }
+        
+        .chatbot-iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+            border-radius: 17px;
+        }
+        
+        .loading-message {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+            font-size: 1.2rem;
+            color: #5D4E37;
+            background: linear-gradient(45deg, #fff8dc, #f0f8ff);
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 2rem;
+            background: linear-gradient(90deg, #FFD700, #FFA500);
+            margin-top: 2rem;
+            border-radius: 10px;
+        }
+        
+        .footer h4 {
+            color: #2C1810;
+            margin: 0;
+        }
+        
+        .footer p {
+            color: #5D4E37;
+            margin: 0.5rem 0 0 0;
+        }
+        
+        .status-indicator {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            padding: 10px 20px;
+            border-radius: 25px;
+            color: white;
+            font-weight: bold;
+            z-index: 1000;
+        }
+        
+        .status-loading {
+            background: #FFA500;
+        }
+        
+        .status-ready {
+            background: #28a745;
+        }
+        
+        .status-error {
+            background: #dc3545;
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .chatbot-container {
+                height: 70vh;
+                margin: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="status-indicator status-loading" id="statusIndicator">
+        🔄 Loading Chatbot...
+    </div>
+    
+    <div class="header">
+        <h1>💎 Kalyan Jewellers FAQ Assistant 💎</h1>
+        <p>✨ Your trusted guide to all jewelry queries ✨</p>
+    </div>
+    
+    <div class="container">
+        <div class="chatbot-container">
+            <div class="loading-message" id="loadingMessage">
+                <div>
+                    <h3>🚀 Starting Chatbot...</h3>
+                    <p>Please wait while we load your jewelry assistant...</p>
+                    <p><small>Make sure the Streamlit server is running on port 8501</small></p>
+                </div>
+            </div>
+            <iframe 
+                id="chatbotFrame"
+                class="chatbot-iframe" 
+                src="http://localhost:8501"
+                style="display: none;"
+                onload="onChatbotLoad()"
+                onerror="onChatbotError()">
+            </iframe>
+        </div>
+    </div>
+    
+    <div class="footer">
+        <h4>💎 Kalyan Jewellers - Trusted Since 1993 💎</h4>
+        <p>✨ Making your jewelry dreams come true ✨</p>
+    </div>
+    
+    <script>
+        function onChatbotLoad() {
+            document.getElementById('loadingMessage').style.display = 'none';
+            document.getElementById('chatbotFrame').style.display = 'block';
+            document.getElementById('statusIndicator').className = 'status-indicator status-ready';
+            document.getElementById('statusIndicator').innerHTML = '✅ Chatbot Ready';
+            
+            // Hide status indicator after 3 seconds
+            setTimeout(() => {
+                document.getElementById('statusIndicator').style.display = 'none';
+            }, 3000);
+        }
+        
+        function onChatbotError() {
+            document.getElementById('statusIndicator').className = 'status-indicator status-error';
+            document.getElementById('statusIndicator').innerHTML = '❌ Connection Failed';
+            document.getElementById('loadingMessage').innerHTML = `
+                <div>
+                    <h3>⚠️ Chatbot Not Available</h3>
+                    <p>Please make sure the Streamlit server is running:</p>
+                    <ol style="text-align: left; margin: 1rem 0;">
+                        <li>Double-click <code>start_chatbot.bat</code></li>
+                        <li>Or run <code>launch_chatbot.py</code></li>
+                        <li>Wait for the server to start</li>
+                        <li>Refresh this page</li>
+                    </ol>
+                    <button onclick="location.reload()" style="padding: 10px 20px; background: #FFD700; border: none; border-radius: 5px; cursor: pointer;">
+                        🔄 Retry
+                    </button>
+                </div>
+            `;
+        }
+        
+        // Check if chatbot is available
+        function checkChatbotStatus() {
+            fetch('http://localhost:8501')
+                .then(response => {
+                    if (response.ok) {
+                        onChatbotLoad();
+                    } else {
+                        onChatbotError();
+                    }
+                })
+                .catch(error => {
+                    onChatbotError();
+                });
+        }
+        
+        // Check status after 2 seconds
+        setTimeout(checkChatbotStatus, 2000);
+    </script>
+</body>
+</html>
